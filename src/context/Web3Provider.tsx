@@ -18,7 +18,7 @@ if (!projectId) {
 const metadata = {
   name: 'Base Wallet Connect',
   description: 'Reown AppKit + Base Network Integration',
-  url: 'https://base-wallet-connect.vercel.app',
+  url: 'https://base-appkit-demo.vercel.app',
   icons: ['https://avatars.githubusercontent.com/u/179229932']
 }
 
