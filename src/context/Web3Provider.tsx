@@ -7,7 +7,7 @@ import { base, baseSepolia } from '@reown/appkit/networks'
 import React, { type ReactNode } from 'react'
 import { cookieToInitialState, WagmiProvider, type Config } from 'wagmi'
 
-// Set up queryClient
+
 const queryClient = new QueryClient()
 
 if (!projectId) {
